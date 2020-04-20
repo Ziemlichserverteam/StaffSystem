@@ -1,0 +1,43 @@
+name: StaffSystem
+main: de.staticfx.staffsystem.Main
+version: 3.0.8.9.4
+author: StaticFX
+api-version: 1.15
+
+commands:
+  check:
+    description: checks a players history
+  history:
+    description: clears the history
+  id:
+    description: usefull commands for ids
+  kick:
+    description: kicks a players
+  login:
+    description: login to your account
+  password:
+    description: manage your password
+  punish:
+    description: opens punishment options
+  tc:
+    description: en/disables teamchat
+  reports:
+    description: reports overview
+  report:
+    description: report a player
+  log:
+    description: log delete
+  vote:
+    description: vote ban/mute player
+  v:
+    description: vote
+  premium:
+    description: gives a player premium for a week.
+  head:
+    description: gives you a head
+  shop:
+    description: opens the shop
+  globalchat:
+    description:
+  spec:
+    description:
